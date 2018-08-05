@@ -30,4 +30,15 @@
 * node-readme - bengreenier.vscode-node-readme
 * Node.js Modules Intellisense - leizongmin.node-module-intellisense
 * npm - eg2.vscode-npm-script
+* npm Intellisense - christian-kohler.npm-intellisense
+* Open iTerm2 - mushan.vscode-open-iterm2
+* Paste JSON as Code - quicktype.quicktype
+* Polacode - pnp.polacode
+* Prettify JSON - mohsen1.prettify-json
+* sort-imports - amatiasq.sort-imports
+* vscode-caniuse - agauniyal.vscode-caniuse
+* vscode-icons - robertohuertasm.vscode-icons
+* vscode-styled-components - jpoissonnier.vscode-styled-components
+* WakaTime - wakatime.vscode-wakatime
 
+This does not include snippets
