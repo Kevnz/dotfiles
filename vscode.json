@@ -1,0 +1,62 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#000C1D",
+    "activityBar.border": "#102a44",
+    "sideBar.background": "#001122",
+    "sideBar.border": "#102a44",
+  },
+  "editor.tabSize": 2,
+  "eslint.enable": true,
+  "window.zoomLevel": 0,
+  "terminal.integrated.fontSize": 10,
+  "terminal.integrated.fontFamily": "Inconsolata-g for Powerline",
+  "workbench.colorTheme": "Night Owl",
+  "editor.fontFamily": "Fira Code, Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 20,
+  "editor.letterSpacing": 0.5,
+  "files.trimTrailingWhitespace": true,
+  "editor.fontWeight": "400",
+  // this isn't really underline-thin but we hack it to be a thicker cursor
+  "editor.cursorStyle": "underline-thin",
+  "editor.cursorBlinking": "solid",
+  // Very important: Install this plugin: https://github.com/be5invis/vscode-custom-css
+  // you'll need to change this to an absolute path on your computer
+  "vscode_custom_css.imports": [
+    "/Volumes/Macintosh HD/Users/kevinisom/.vscodestyles.css"
+  ],
+  "editor.renderWhitespace": "all",
+  "workbench.iconTheme": "vscode-icons",
+  "gitlens.advanced.messages": {
+    "suppressCommitHasNoPreviousCommitWarning": false,
+    "suppressCommitNotFoundWarning": false,
+    "suppressFileNotUnderSourceControlWarning": false,
+    "suppressGitVersionWarning": false,
+    "suppressLineUncommittedWarning": false,
+    "suppressNoRepositoryWarning": false,
+    "suppressResultsExplorerNotice": false,
+    "suppressShowKeyBindingsNotice": true,
+    "suppressUpdateNotice": false,
+    "suppressWelcomeNotice": true
+  },
+  "files.associations": {
+    "Dockerfile-dev": "dockerfile"
+  },
+  "rust.rustup": {
+    "toolchain": "nightly-x86_64-apple-darwin"
+  },
+  "rust.mode": "legacy",
+  "gitlens.keymap": "none",
+  "telemetry.enableTelemetry": false,
+  "gitlens.historyExplorer.enabled": true,
+  "editor.minimap.enabled": false,
+  "sync.removeExtensions": true,
+  "sync.syncExtensions": true,
+  "[javascriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "[javascript]": {
+    "editor.formatOnSave": true
+  }
+}
