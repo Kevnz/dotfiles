@@ -9,9 +9,8 @@
   "extends": ["eslint:recommended", "prettier"],
   "plugins": ["prettier"],
   "parserOptions": {
-    "ecmaVersion": 8,
+    "ecmaVersion": 2018,
     "ecmaFeatures": {
-      "experimentalObjectRestSpread": true,
       "impliedStrict": true,
       "classes": true
     }
